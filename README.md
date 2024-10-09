@@ -56,6 +56,7 @@ BibTex citation if you find our work useful:
 - [2008] **Multiagent systems: Algorithmic, game-theoretic, and logical foundations** *Cambridge University Press* [[Book](http://www.masfoundations.org/mas.pdf)]
 
 ## Cooperative
+- [2024/10] **MDAgents: An Adaptive Collaboration of LLMs for Medical Decision-Making** *Yubin Kim et al. arXiv* [[Paper](https://arxiv.org/pdf/2404.15155)] *
 - [2023/12] **LLM-Powered Hierarchical Language Agent for Real-time Human-AI Coordination** *Jijia Liu et al. arXiv* [[Paper](https://arxiv.org/pdf/2312.15224)] *
 - [2023/11] **Building the Future of Responsible AI: A Reference Architecture for Designing Large Language Model Based Agents** *Qinghua Lu et al. arXiv* [[Paper](https://arxiv.org/abs/2311.13148)] *
 - [2023/11] **Controlling Large Language Model-based Agents for Large-Scale Decision-Making: An Actor-Critic Approach** *Bin Zhang et al. arXiv* [[Paper](https://arxiv.org/abs/2311.13884)] *
